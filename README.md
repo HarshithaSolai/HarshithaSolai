@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha Solai Varadarajan</h1>
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail, ensuring security, scalability, and maintainability.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithasolai" alt="harshithasolai" /></a> </p>
-
 - 🔭 I’m currently working on [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
 
 - 🌱 I’m currently learning **React and Next**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithasolai&show_icons=true&locale=en&layout=compact" alt="harshithasolai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithasolai&show_icons=true&locale=en" alt="harshithasolai" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithasolai" alt="harshithasolai" /></a> </p>
