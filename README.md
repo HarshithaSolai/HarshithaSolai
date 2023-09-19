@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
 
 - 🌱 I’m currently learning **React and Next**
+  
+- 🌱 I’m currently learning **Vue 3**
 
 - 👨‍💻 All of my projects are available at [https://harshithasv-portfolio.netlify.app/](https://harshithasv-portfolio.netlify.app/)
 
