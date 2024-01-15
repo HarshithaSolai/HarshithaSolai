@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshitha Solai Varadarajan</h1>
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail, ensuring security, scalability, and maintainability.</h3>
 
-- 🔭 I’m currently working on [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
+- 🌱 I’m currently working as **Senior Software Developer** focussing on **MERN** stack.
 
-- 🌱 I’m currently learning **React and Next**
+- 🌱 I’m currently learning **Front-End System Design**
   
-- 🌱 I’m currently learning **Vue 3**
+- 🔭 I’m actively worked on [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://harshithasv-portfolio.netlify.app/](https://harshithasv-portfolio.netlify.app/)
 
