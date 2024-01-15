@@ -4,8 +4,12 @@
 - 🌱 I’m currently working as **Senior Software Developer** focussing on **MERN** stack.
 
 - 🌱 I’m currently learning **Front-End System Design**
+
+- Documenting my front-end system design learning experience at [Namaste FrontEnd System Design](https://github.com/HarshithaSolai/namaste-frontend-system-design)
   
-- 🔭 I’m actively worked on [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
+- 🔭 My highly appreciated project : [Instafood](https://learn-react-with-harshi-chapter-12.netlify.app/)
+
+- Documented my React learning experience at [Learn React With Harshi](https://github.com/Learn-React-With-Harshi)
 
 - 👨‍💻 All of my projects are available at [https://harshithasv-portfolio.netlify.app/](https://harshithasv-portfolio.netlify.app/)
 
